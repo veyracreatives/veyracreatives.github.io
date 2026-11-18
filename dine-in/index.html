@@ -57,6 +57,9 @@
   .logo small { display: block; font-size: 11px; font-weight: 600; color: var(--ink-3); letter-spacing: .02em; margin-top: -2px; }
   .nav-links { display: flex; gap: 26px; margin-left: auto; font-weight: 600; font-size: 15px; color: var(--ink-2); }
   .nav-links a:hover { color: var(--ink); }
+  .login-link { font-weight: 700; font-size: 15px; color: var(--ink); margin: 0 6px 0 26px; white-space: nowrap; } .login-link:hover { color: var(--saffron); }
+  @media (max-width: 980px) { .login-link { margin-left: auto; } }
+  .weblink { margin: 14px 0 0; font-size: 15px; color: var(--ink-2); } .weblink a { color: var(--saffron-d); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
 
   /* hero */
   .hero { padding: 56px 0 40px; overflow: hidden; }
@@ -278,6 +281,7 @@
 <header class="nav"><div class="wrap">
   <a class="logo" href="#"><span class="mark"><svg class="ic" width="22" height="22"><use href="#i-qr"/></svg></span><span>Veyra Dine In<small>by Veyra Creative &amp; Digital Lab</small></span></a>
   <nav class="nav-links"><a href="#how">How it works</a><a href="#new">New</a><a href="#features">Features</a><a href="#pricing">Pricing</a><a href="#faq">FAQ</a></nav>
+  <a class="login-link" href="https://dinein.veyracreatives.com/admin">Log in</a>
   <a class="btn btn-dark btn-sm" href="https://veyracreatives.github.io/dine-in/download/Veyra-Dine-In-Setup.exe" download>Try free for 30 days</a>
 </div></header>
 
@@ -291,6 +295,7 @@
       <a class="btn btn-main" href="https://veyracreatives.github.io/dine-in/download/Veyra-Dine-In-Setup.exe" download><svg class="ic" width="20" height="20"><use href="#i-win"/></svg> Download for Windows</a>
       <a class="btn btn-line" href="#how">See how it works</a>
     </div>
+    <p class="weblink">No Windows computer? <a href="https://dinein.veyracreatives.com/signup">Start free in your browser</a></p>
     <div class="trust">
       <span><svg class="ic" width="18" height="18"><use href="#i-check"/></svg> 30 days free</span>
       <span><svg class="ic" width="18" height="18"><use href="#i-check"/></svg> No card needed to start</span>
@@ -412,7 +417,7 @@
 </div></section>
 
 <section style="padding-top:20px"><div class="wrap">
-  <div class="final rv"><div><h2>Start taking orders from the table</h2><p>Download the Windows app and use every feature free for 30 days.</p></div>
+  <div class="final rv"><div><h2>Start taking orders from the table</h2><p>Download the Windows app and use every feature free for 30 days. Or <a href="https://dinein.veyracreatives.com/signup" style="color:inherit;font-weight:700;text-decoration:underline">sign up in your browser</a>.</p></div>
     <a class="btn btn-dark" href="https://veyracreatives.github.io/dine-in/download/Veyra-Dine-In-Setup.exe" download><svg class="ic" width="20" height="20"><use href="#i-win"/></svg> Download for Windows</a></div>
 </div></section>
 </main>
