@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://veyracreatives.github.io/dine-in/sitemap.xml
