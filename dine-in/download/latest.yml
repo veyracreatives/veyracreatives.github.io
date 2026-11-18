@@ -1,8 +1,8 @@
-version: 1.0.11
+version: 1.0.12
 files:
   - url: Veyra-Dine-In-Setup.exe
-    sha512: 4lwN2ZWurN5pXBizd2CTFD8oHJJecNG0Uqy1w2b8C24I894+R0F3VnKXRwOsSRjdg0zM/9JpPr0AwkjAjKM3vw==
-    size: 83548069
+    sha512: P0euXALJoGLTxy8CS3NJkJBe6yK7s/Y45VJYNW1e8keKShnKhyNuzCfrDped+1XiJSa5+9KZuu1KsAIoCx3aMQ==
+    size: 83548224
 path: Veyra-Dine-In-Setup.exe
-sha512: 4lwN2ZWurN5pXBizd2CTFD8oHJJecNG0Uqy1w2b8C24I894+R0F3VnKXRwOsSRjdg0zM/9JpPr0AwkjAjKM3vw==
-releaseDate: '2026-11-18T14:43:13.922Z'
+sha512: P0euXALJoGLTxy8CS3NJkJBe6yK7s/Y45VJYNW1e8keKShnKhyNuzCfrDped+1XiJSa5+9KZuu1KsAIoCx3aMQ==
+releaseDate: '2026-11-18T14:57:10.044Z'
