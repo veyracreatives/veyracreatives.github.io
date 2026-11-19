@@ -1,8 +1,8 @@
 version: 1.0.18
 files:
-  - url: Veyra-Dine-In-Setup.exe
+  - url: https://dinein.veyracreatives.com/download/Veyra-Dine-In-Setup.exe?v=1.0.18
     sha512: siBnLbruTggFduv+2iQMaUC3y94/sDGfNwJSO8smj6Q4ioSW3lpAQBiQsA7pfZ8wsHYwXMgv3x6KCBr+l1gZKQ==
     size: 83655756
-path: Veyra-Dine-In-Setup.exe
+path: https://dinein.veyracreatives.com/download/Veyra-Dine-In-Setup.exe?v=1.0.18
 sha512: siBnLbruTggFduv+2iQMaUC3y94/sDGfNwJSO8smj6Q4ioSW3lpAQBiQsA7pfZ8wsHYwXMgv3x6KCBr+l1gZKQ==
 releaseDate: '2026-11-19T07:14:19.512Z'
